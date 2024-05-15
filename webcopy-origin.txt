@@ -182,6 +182,10 @@ Uri: https://denim-falcon-pc5d.squarespace.com/
 File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\index.htm
 Content Type: text/html
 
+Uri: https://denim-falcon-pc5d.squarespace.com/aktualnosci
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\aktualnosci.html
+Content Type: text/html
+
 Uri: https://denim-falcon-pc5d.squarespace.com/cart
 File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\cart.html
 Content Type: text/html
@@ -1320,6 +1324,38 @@ Content Type: image/jpeg
 
 Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4881991a-e373-40c6-935e-b5fcb39c8627/20210312_095217.jpg?format=750w
 File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4881991a-e373-40c6-935e-b5fcb39c8627\20210312_095217-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4ccbac4f-05dc-4593-8f91-f5fbd69e0188/IMG_20211015_111555.jpg
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4ccbac4f-05dc-4593-8f91-f5fbd69e0188\IMG_20211015_111555.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4ccbac4f-05dc-4593-8f91-f5fbd69e0188/IMG_20211015_111555.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4ccbac4f-05dc-4593-8f91-f5fbd69e0188\IMG_20211015_111555-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4ccbac4f-05dc-4593-8f91-f5fbd69e0188/IMG_20211015_111555.jpg?format=100w
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4ccbac4f-05dc-4593-8f91-f5fbd69e0188\IMG_20211015_111555-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4ccbac4f-05dc-4593-8f91-f5fbd69e0188/IMG_20211015_111555.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4ccbac4f-05dc-4593-8f91-f5fbd69e0188\IMG_20211015_111555-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4ccbac4f-05dc-4593-8f91-f5fbd69e0188/IMG_20211015_111555.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4ccbac4f-05dc-4593-8f91-f5fbd69e0188\IMG_20211015_111555-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4ccbac4f-05dc-4593-8f91-f5fbd69e0188/IMG_20211015_111555.jpg?format=300w
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4ccbac4f-05dc-4593-8f91-f5fbd69e0188\IMG_20211015_111555-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4ccbac4f-05dc-4593-8f91-f5fbd69e0188/IMG_20211015_111555.jpg?format=500w
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4ccbac4f-05dc-4593-8f91-f5fbd69e0188\IMG_20211015_111555-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4ccbac4f-05dc-4593-8f91-f5fbd69e0188/IMG_20211015_111555.jpg?format=750w
+File Name: C:\Downloaded Web Sites\denim-falcon-pc5d.squarespace.com\content\v1\65a11d6ac127ff2e4b8081d8\4ccbac4f-05dc-4593-8f91-f5fbd69e0188\IMG_20211015_111555-4.jpg
 Content Type: image/jpeg
 
 Uri: https://images.squarespace-cdn.com/content/v1/65a11d6ac127ff2e4b8081d8/4d76b840-64db-48cb-8f26-f0a8b0b59e89/187292226_325639028965867_2124528230167932101_n.jpg
